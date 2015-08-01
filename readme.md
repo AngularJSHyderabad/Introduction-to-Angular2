@@ -6,10 +6,10 @@ Introduction to Angular 2
  - Victor Savkin's [talk][3] and [slides][4] on Angular 2 change detection mentioned during the talk
 
 ####Further learning
-www.angular.io
-www.angularu.com
-www.victorsavkin.com
-www.tryangular2.com
+ - www.angular.io
+ - www.angularu.com
+ - www.victorsavkin.com
+ - www.tryangular2.com
 
 
 [1]: https://github.com/EladRK/angular-starter
