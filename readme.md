@@ -3,7 +3,7 @@ Introduction to Angular 2
 ####Links Mentioned during talk
  - [Angular Starter project mentioned during the talk][1]
  - [Pin your achievements sample application][2]
- - Victor Savkin's [talk][3] and [slides][4] on Angular 2 change detection mentioned during the talk
+ - Victor Savkin's [talk][3] and [slides][4] on Angular 2 change detection
 
 ####Further learning
  - www.angular.io
